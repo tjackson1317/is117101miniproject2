@@ -192,6 +192,13 @@ textarea {
   padding-left: 10px;
 }
 
+#icon_one, #icon_two {
+  float: left;
+  margin-right: 10px;
+  padding-left: 10px;
+
+}
+
 .floatLeft {
   float: left;
 }
