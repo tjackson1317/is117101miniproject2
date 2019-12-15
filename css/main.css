@@ -110,9 +110,9 @@ textarea {
   Float: left;
 }
 
-#masthead_landing {
+#masthead {
   Clear: both;
-  Background-image: url("../img/background.jpeg");
+  Background-image: url("../img/masthead.jpeg");
   Background-size: cover;
   Background-position: center;
   Height: 64px;
@@ -122,7 +122,7 @@ textarea {
 
 #masthead_landing {
   clear: both;
-  background-image: url("../img/background.jpeg");
+  background-image: url("../img/masthead.jpeg");
   background-size: cover;
   background-position: center;
   height: 366px;
