@@ -192,10 +192,21 @@ textarea {
   padding-left: 10px;
 }
 
-#icon_one, #icon_two {
+#icon_one {
+  float: left;
+  margin-right: 20px;
+  margin-left: 200px;
+}
+
+#icon_two {
   float: left;
   margin-right: 20px;
   margin-left: 50px;
+}
+
+#tech_icon {
+  Margin-left: auto;
+  Margin-right: auto;
 }
 
 .floatLeft {
