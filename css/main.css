@@ -194,6 +194,7 @@ textarea {
 
 #icon_one, #icon_two {
   float: left;
+  margin-right: 10px;
 }
 
 .floatLeft {
