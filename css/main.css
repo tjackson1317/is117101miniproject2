@@ -154,6 +154,11 @@ textarea {
   Float: left;
 }
 
+#contact_form {
+  width: 593px;
+  float: left;
+}
+
 #content_landing {
   width: 100%;
 }
@@ -192,22 +197,11 @@ textarea {
   padding-left: 10px;
 }
 
-#icon_one {
-  float: left;
-  margin-right: 20px;
-  margin-left: 70px;
-}
-
-#icon_two {
-  float: left;
-  margin-right: 20px;
-  margin-left: 50px;
-}
-
-#tech_icon {
-  Margin-left: auto;
-  Margin-right: auto;
-  position: center;
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .floatLeft {
