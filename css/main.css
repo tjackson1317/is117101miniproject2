@@ -205,6 +205,10 @@ textarea {
   padding-left: 10px;
 }
 
+#resume {
+  width: 100%;
+}
+
 .center {
   display: block;
   margin-left: auto;
