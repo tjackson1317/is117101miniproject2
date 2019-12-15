@@ -195,7 +195,7 @@ textarea {
 #icon_one {
   float: left;
   margin-right: 20px;
-  margin-left: 100px;
+  margin-left: 70px;
 }
 
 #icon_two {
@@ -207,6 +207,7 @@ textarea {
 #tech_icon {
   Margin-left: auto;
   Margin-right: auto;
+  position: center;
 }
 
 .floatLeft {
